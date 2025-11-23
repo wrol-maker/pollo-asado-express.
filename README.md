@@ -1,2 +1,17 @@
-# pollo-asado-express.
-Sitio web estático para Pollo Asado Express, negocio de venta de pollo asado y acompañamientos. Incluye menú, promociones, carrito de compras, proceso de pedido y sección de contacto. Diseñado para publicarse en GitHub Pages como parte de un proyecto académico de estrategias digitales.
+# Pollo Asado Express
+
+Sitio web estático para pedidos de pollo asado y acompañamientos. Publicable en **GitHub Pages**.
+
+## Publicación
+1. Crea el repo `pollo-asado-express`.
+2. Sube `index.html` y carpeta `assets`.
+3. Settings → Pages → Source: Deploy from a branch → Branch: main → Folder: /(root).
+4. Guarda y visita la URL.
+
+## Personaliza
+- Reemplaza imágenes por fotos reales.
+- Actualiza tu número de WhatsApp en Contacto.
+- Ajusta precios y horarios.
+
+## Nota
+Flujo de pago demostrativo solo para fines académicos.
